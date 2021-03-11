@@ -1,0 +1,23 @@
+{
+  "name": "teanglann-ioslodail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorhug/teanglann--osl-d-il.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorhug/teanglann--osl-d-il/issues"
+  },
+  "homepage": "https://github.com/rorhug/teanglann--osl-d-il#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1"
+  }
+}
